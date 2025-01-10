@@ -1,6 +1,3 @@
-> [!WARNING]
-> AI-generated README, may contain bullshit
-
 # Refal05 Binding to Linux Sockets
 
 Simple [Refal05](https://github.com/Mazdaywik/Refal-05) library providing bindings to Linux sockets.
